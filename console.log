@@ -1,0 +1,27 @@
+Last login: Wed Aug 10 23:27:17 on ttys000
+
+➜  homework javac *.java      
+➜  homework java SandwichMaker
+
+Adding cranberry
+Adding Brie
+Adding Bacon
+Ingredients: Two Slices Of Bread!, cranberry, Brie, Bacon
+Cost of Bacon: 0.75
+Cost of Brie: 0.5
+Cost of cranberry: 0.05
+Cost of bread: 1.5
+Price: 2.8
+
+➜  homework 
+
+
+
+
+
+
+
+
+
+
+
